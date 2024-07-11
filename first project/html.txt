@@ -1,0 +1,48 @@
+
+<!DOCTYPE html>
+<html style="font-size: 20px;">
+<head>
+   
+    <meta charset="UTF-8"> 
+    <meta name="description" content="nada ramadan">
+   <link rel="stylesheet" href="css/master.css"/>
+    <title> test1...</title>
+    
+</head>
+<body>
+    <header>
+        <h2><a href="#" class="logo">nouvil</a></h2>
+        <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">Product</a></li> 
+            <li><a href="#">Shop</a></li> 
+            <li><a href="#">About</a></li> 
+            <li><a href="#">Contact</a></li> 
+        </ul>
+    </header>
+    
+
+    <section class="main">
+        <img src="first project/stars1.webp" id="stars">
+        <h2 class="nouvil">nouvil</h2>
+        <img src="first project/moon2.webp" id="moon">
+        <img src="first project/mountains3.webp" id="mountains3">
+        <img src="first project/mountains4.webp" id="mountains4">
+        <img src="first project/river5.webp" id="river">
+        <img src="first project/boat6.webp" id="boat">
+        <img src="first project/mountains7.webp" id="mountains7">
+    </section>
+
+
+    <div class="content">
+        <h2>Lorem ipsum dolor sit amet.</h2>
+        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ab sit error commodi soluta! Quisquam incidunt ipsum nisi odio ipsam, est, nesciunt facere ullam eum possimus, molestias libero. Repellendus cupiditate, ea beatae dignissimos, voluptas alias error tempora esse at optio laborum ullam consequatur et porro eos tenetur iure fugiat nostrum voluptatem sunt nihil natus! Placeat blanditiis iure repellat mollitia excepturi sapiente sunt quasi corrupti est ab magnam, esse consectetur consequatur dicta ea fuga dolorem quas quo sint eius dignissimos, sequi autem tempore! Non fugiat dolorum iusto saepe. Fugit aliquid, unde assumenda perspiciatis temporibus maxime, soluta quos velit magnam eveniet cupiditate. Repellendus.
+        </p>
+        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ab sit error commodi soluta! Quisquam incidunt ipsum nisi odio ipsam, est, nesciunt facere ullam eum possimus, molestias libero. Repellendus cupiditate, ea beatae dignissimos, voluptas alias error tempora esse at optio laborum ullam consequatur et porro eos tenetur iure fugiat nostrum voluptatem sunt nihil natus! Placeat blanditiis iure repellat mollitia excepturi sapiente sunt quasi corrupti est ab magnam, esse consectetur consequatur dicta ea fuga dolorem quas quo sint eius dignissimos, sequi autem tempore! Non fugiat dolorum iusto saepe. Fugit aliquid, unde assumenda perspiciatis temporibus maxime, soluta quos velit magnam eveniet cupiditate. Repellendus.
+        </p>
+        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ab sit error commodi soluta! Quisquam incidunt ipsum nisi odio ipsam, est, nesciunt facere ullam eum possimus, molestias libero. Repellendus cupiditate, ea beatae dignissimos, voluptas alias error tempora esse at optio laborum ullam consequatur et porro eos tenetur iure fugiat nostrum voluptatem sunt nihil natus! Placeat blanditiis iure repellat mollitia excepturi sapiente sunt quasi corrupti est ab magnam, esse consectetur consequatur dicta ea fuga dolorem quas quo sint eius dignissimos, sequi autem tempore! Non fugiat dolorum iusto saepe. Fugit aliquid, unde assumenda perspiciatis temporibus maxime, soluta quos velit magnam eveniet cupiditate. Repellendus.
+        </p>
+    </div>
+<script src="main.js"></script>
+</body>
+</html>

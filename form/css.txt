@@ -1,0 +1,28 @@
+.a{
+    margin: auto 450px;
+    height: 350px;
+    width: 320px;
+    background-color: rgb(121, 172, 214);
+    border-radius: 20px;
+}
+.tex{
+    text-align: center;
+    font-size: larger;
+    padding: 20px;
+    height: 40px;
+}
+.la1{
+    padding: 15px;
+} .in1{
+    height: 25px;
+    border-radius: 8px;
+}.sub{
+    padding: 10px;
+    border-radius: 10px;
+    width: 100px;
+    margin: auto 120px;
+}
+ .sub:hover{
+ background-color: rgb(193, 188, 188);
+ color: white;
+ }

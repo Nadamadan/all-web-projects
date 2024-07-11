@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html style="font-size: 20px;">
+<head>
+   
+    <meta charset="UTF-8"> 
+    <meta name="description" content="nada ramadan">
+   <link rel="stylesheet" href="css/master.css">
+
+    <title> web...</title>
+</head>
+<body>
+  <div class="a">
+    <div class="tex"> Fill The Form </div>
+    <div>
+        <form>
+         <label class="la1"> Name : </label>  
+          <input class="in1" type="text" placeholder="  Enter Your Name "><br><br>
+          <label class="la1"> passw : </label>  
+          <input class="in1" type="number" placeholder="  Enter Your password "><br><br>
+          <label class="la1"> Numb : </label>  
+          <input class="in1" type="text" placeholder="  Enter Your Number "><br><br><br>
+          
+          <input class="sub" type="submit" value="Send">
+        </form>
+    </div>
+  </div>
+ </div>
+</body>
+</html>
